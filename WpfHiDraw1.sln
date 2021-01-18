@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHiDraw1", "WpfHiDraw1\WpfHiDraw1.csproj", "{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}.Debug|x64.ActiveCfg = Debug|x64
+		{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}.Debug|x64.Build.0 = Debug|x64
+		{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}.Release|x64.ActiveCfg = Release|x64
+		{01A61AE6-1EA3-41E5-983F-59F1D8E730B0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C87FF5-0F08-46E9-96C6-23D1E8D9AF12}
+	EndGlobalSection
+EndGlobal
