@@ -3,10 +3,10 @@
 //#define DrawingContext_DrawGeometry_LineTo
 //#define DrawingContext_DrawGeometry_LineTo_OneGeometry
 //#define DrawingContext_DrawGeometry_PolyLineTo_MultiGeometry
-#define DrawingContext_DrawGeometry_PolyLineTo_OneGeometry
+//#define DrawingContext_DrawGeometry_PolyLineTo_OneGeometry
 
 //#define DrawingContext_DrawPathGeometry_LineTo
-//#define DrawingContext_DrawPathGeometry_LineTo_OneGeometry
+#define DrawingContext_DrawPathGeometry_LineTo_OneGeometry
 
 using System;
 using System.Collections.Generic;

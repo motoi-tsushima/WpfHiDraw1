@@ -32,8 +32,6 @@ namespace WpfHiDraw1
             xView.ResultLabel = xLabel;
         }
 
-        //public List<Tuple<Point, Point>> points = new List<Tuple<Point, Point>>();
-
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             this.StartButton.IsEnabled = false;
